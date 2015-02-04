@@ -1,4 +1,4 @@
-module Course
+module Todos
   class V1 < Grape::API
     resources :todos do
     #index
